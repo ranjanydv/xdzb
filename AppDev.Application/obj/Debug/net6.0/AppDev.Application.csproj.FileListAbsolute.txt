@@ -1,0 +1,30 @@
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Application\bin\Debug\net6.0\AppDev.Application.deps.json
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Application\bin\Debug\net6.0\AppDev.Application.dll
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Application\bin\Debug\net6.0\AppDev.Application.pdb
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Application\bin\Debug\net6.0\AppDev.Domain.dll
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Application\bin\Debug\net6.0\AppDev.Domain.pdb
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Application\obj\Debug\net6.0\AppDev.Application.csproj.AssemblyReference.cache
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Application\obj\Debug\net6.0\AppDev.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Application\obj\Debug\net6.0\AppDev.Application.AssemblyInfoInputs.cache
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Application\obj\Debug\net6.0\AppDev.Application.AssemblyInfo.cs
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Application\obj\Debug\net6.0\AppDev.Application.csproj.CoreCompileInputs.cache
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Application\obj\Debug\net6.0\AppDev.Application.csproj.CopyComplete
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Application\obj\Debug\net6.0\AppDev.Application.dll
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Application\obj\Debug\net6.0\refint\AppDev.Application.dll
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Application\obj\Debug\net6.0\AppDev.Application.pdb
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Application\obj\Debug\net6.0\ref\AppDev.Application.dll
+E:\ASP.NET\dfsbxhb\AppDev.Application\bin\Debug\net6.0\AppDev.Application.deps.json
+E:\ASP.NET\dfsbxhb\AppDev.Application\bin\Debug\net6.0\AppDev.Application.dll
+E:\ASP.NET\dfsbxhb\AppDev.Application\bin\Debug\net6.0\AppDev.Application.pdb
+E:\ASP.NET\dfsbxhb\AppDev.Application\bin\Debug\net6.0\AppDev.Domain.dll
+E:\ASP.NET\dfsbxhb\AppDev.Application\bin\Debug\net6.0\AppDev.Domain.pdb
+E:\ASP.NET\dfsbxhb\AppDev.Application\obj\Debug\net6.0\AppDev.Application.csproj.AssemblyReference.cache
+E:\ASP.NET\dfsbxhb\AppDev.Application\obj\Debug\net6.0\AppDev.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\dfsbxhb\AppDev.Application\obj\Debug\net6.0\AppDev.Application.AssemblyInfoInputs.cache
+E:\ASP.NET\dfsbxhb\AppDev.Application\obj\Debug\net6.0\AppDev.Application.AssemblyInfo.cs
+E:\ASP.NET\dfsbxhb\AppDev.Application\obj\Debug\net6.0\AppDev.Application.csproj.CoreCompileInputs.cache
+E:\ASP.NET\dfsbxhb\AppDev.Application\obj\Debug\net6.0\AppDev.Application.csproj.CopyComplete
+E:\ASP.NET\dfsbxhb\AppDev.Application\obj\Debug\net6.0\AppDev.Application.dll
+E:\ASP.NET\dfsbxhb\AppDev.Application\obj\Debug\net6.0\refint\AppDev.Application.dll
+E:\ASP.NET\dfsbxhb\AppDev.Application\obj\Debug\net6.0\AppDev.Application.pdb
+E:\ASP.NET\dfsbxhb\AppDev.Application\obj\Debug\net6.0\ref\AppDev.Application.dll

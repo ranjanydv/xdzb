@@ -1,0 +1,38 @@
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Infrastructure\bin\Debug\net6.0\AppDev.Infrastructure.deps.json
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Infrastructure\bin\Debug\net6.0\AppDev.Infrastructure.runtimeconfig.json
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Infrastructure\bin\Debug\net6.0\AppDev.Infrastructure.dll
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Infrastructure\bin\Debug\net6.0\AppDev.Infrastructure.pdb
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Infrastructure\bin\Debug\net6.0\AppDev.Application.dll
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Infrastructure\bin\Debug\net6.0\AppDev.Domain.dll
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Infrastructure\bin\Debug\net6.0\AppDev.Application.pdb
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Infrastructure\bin\Debug\net6.0\AppDev.Domain.pdb
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Infrastructure\obj\Debug\net6.0\AppDev.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Infrastructure\obj\Debug\net6.0\AppDev.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Infrastructure\obj\Debug\net6.0\AppDev.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Infrastructure\obj\Debug\net6.0\AppDev.Infrastructure.AssemblyInfo.cs
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Infrastructure\obj\Debug\net6.0\AppDev.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Infrastructure\obj\Debug\net6.0\AppDev.Infrastructure.csproj.CopyComplete
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Infrastructure\obj\Debug\net6.0\AppDev.Infrastructure.dll
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Infrastructure\obj\Debug\net6.0\refint\AppDev.Infrastructure.dll
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Infrastructure\obj\Debug\net6.0\AppDev.Infrastructure.pdb
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Infrastructure\obj\Debug\net6.0\AppDev.Infrastructure.genruntimeconfig.cache
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Infrastructure\obj\Debug\net6.0\ref\AppDev.Infrastructure.dll
+E:\ASP.NET\dfsbxhb\AppDev.Infrastructure\bin\Debug\net6.0\AppDev.Infrastructure.deps.json
+E:\ASP.NET\dfsbxhb\AppDev.Infrastructure\bin\Debug\net6.0\AppDev.Infrastructure.runtimeconfig.json
+E:\ASP.NET\dfsbxhb\AppDev.Infrastructure\bin\Debug\net6.0\AppDev.Infrastructure.dll
+E:\ASP.NET\dfsbxhb\AppDev.Infrastructure\bin\Debug\net6.0\AppDev.Infrastructure.pdb
+E:\ASP.NET\dfsbxhb\AppDev.Infrastructure\bin\Debug\net6.0\AppDev.Application.dll
+E:\ASP.NET\dfsbxhb\AppDev.Infrastructure\bin\Debug\net6.0\AppDev.Domain.dll
+E:\ASP.NET\dfsbxhb\AppDev.Infrastructure\bin\Debug\net6.0\AppDev.Application.pdb
+E:\ASP.NET\dfsbxhb\AppDev.Infrastructure\bin\Debug\net6.0\AppDev.Domain.pdb
+E:\ASP.NET\dfsbxhb\AppDev.Infrastructure\obj\Debug\net6.0\AppDev.Infrastructure.csproj.AssemblyReference.cache
+E:\ASP.NET\dfsbxhb\AppDev.Infrastructure\obj\Debug\net6.0\AppDev.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\dfsbxhb\AppDev.Infrastructure\obj\Debug\net6.0\AppDev.Infrastructure.AssemblyInfoInputs.cache
+E:\ASP.NET\dfsbxhb\AppDev.Infrastructure\obj\Debug\net6.0\AppDev.Infrastructure.AssemblyInfo.cs
+E:\ASP.NET\dfsbxhb\AppDev.Infrastructure\obj\Debug\net6.0\AppDev.Infrastructure.csproj.CoreCompileInputs.cache
+E:\ASP.NET\dfsbxhb\AppDev.Infrastructure\obj\Debug\net6.0\AppDev.Infrastructure.csproj.CopyComplete
+E:\ASP.NET\dfsbxhb\AppDev.Infrastructure\obj\Debug\net6.0\AppDev.Infrastructure.dll
+E:\ASP.NET\dfsbxhb\AppDev.Infrastructure\obj\Debug\net6.0\refint\AppDev.Infrastructure.dll
+E:\ASP.NET\dfsbxhb\AppDev.Infrastructure\obj\Debug\net6.0\AppDev.Infrastructure.pdb
+E:\ASP.NET\dfsbxhb\AppDev.Infrastructure\obj\Debug\net6.0\AppDev.Infrastructure.genruntimeconfig.cache
+E:\ASP.NET\dfsbxhb\AppDev.Infrastructure\obj\Debug\net6.0\ref\AppDev.Infrastructure.dll

@@ -1,0 +1,24 @@
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Domain\bin\Debug\net6.0\AppDev.Domain.deps.json
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Domain\bin\Debug\net6.0\AppDev.Domain.dll
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Domain\bin\Debug\net6.0\AppDev.Domain.pdb
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Domain\obj\Debug\net6.0\AppDev.Domain.csproj.AssemblyReference.cache
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Domain\obj\Debug\net6.0\AppDev.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Domain\obj\Debug\net6.0\AppDev.Domain.AssemblyInfoInputs.cache
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Domain\obj\Debug\net6.0\AppDev.Domain.AssemblyInfo.cs
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Domain\obj\Debug\net6.0\AppDev.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Domain\obj\Debug\net6.0\AppDev.Domain.dll
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Domain\obj\Debug\net6.0\refint\AppDev.Domain.dll
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Domain\obj\Debug\net6.0\AppDev.Domain.pdb
+C:\Users\Sandesh\Downloads\applicationdevelopment\ad cw 2\App\AppDev\AppDev.Domain\obj\Debug\net6.0\ref\AppDev.Domain.dll
+E:\ASP.NET\dfsbxhb\AppDev.Domain\bin\Debug\net6.0\AppDev.Domain.deps.json
+E:\ASP.NET\dfsbxhb\AppDev.Domain\bin\Debug\net6.0\AppDev.Domain.dll
+E:\ASP.NET\dfsbxhb\AppDev.Domain\bin\Debug\net6.0\AppDev.Domain.pdb
+E:\ASP.NET\dfsbxhb\AppDev.Domain\obj\Debug\net6.0\AppDev.Domain.csproj.AssemblyReference.cache
+E:\ASP.NET\dfsbxhb\AppDev.Domain\obj\Debug\net6.0\AppDev.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\dfsbxhb\AppDev.Domain\obj\Debug\net6.0\AppDev.Domain.AssemblyInfoInputs.cache
+E:\ASP.NET\dfsbxhb\AppDev.Domain\obj\Debug\net6.0\AppDev.Domain.AssemblyInfo.cs
+E:\ASP.NET\dfsbxhb\AppDev.Domain\obj\Debug\net6.0\AppDev.Domain.csproj.CoreCompileInputs.cache
+E:\ASP.NET\dfsbxhb\AppDev.Domain\obj\Debug\net6.0\AppDev.Domain.dll
+E:\ASP.NET\dfsbxhb\AppDev.Domain\obj\Debug\net6.0\refint\AppDev.Domain.dll
+E:\ASP.NET\dfsbxhb\AppDev.Domain\obj\Debug\net6.0\AppDev.Domain.pdb
+E:\ASP.NET\dfsbxhb\AppDev.Domain\obj\Debug\net6.0\ref\AppDev.Domain.dll
